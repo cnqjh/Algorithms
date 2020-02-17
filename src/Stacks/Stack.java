@@ -2,7 +2,7 @@ package Stacks;
 
 /**
  * @Author Mu_Hui
- * @Data 2020-2-17 19:39:40
+ * @Date 2020-2-17 19:39:40
  * @Name 栈
  */
 public class Stack {

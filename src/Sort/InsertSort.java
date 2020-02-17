@@ -2,7 +2,7 @@ package Sort;
 
 /**
  * @Author Mu_Hui
- * @Data 2020-2-17 14:50:23
+ * @Date 2020-2-17 14:50:23
  * @Name 插入排序
  */
 public class InsertSort {
