@@ -1,5 +1,10 @@
 package Queues;
 
+/**
+ * @Author Mu_Hui
+ * @Date 2020-2-17 22:13:45
+ * @Name 隊列
+ */
 public class Queue {
     public static void main(String[] args) {
         int max=10;
